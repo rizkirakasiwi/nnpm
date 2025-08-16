@@ -300,12 +300,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Code optimization**: Performance improvements while maintaining clarity
 - **Documentation style**: Following best practices for educational codebases
 
-## 📞 Contact
-
-- **GitHub Issues**: For bug reports and feature requests
-- **Discussions**: For questions and learning support
-- **Email**: [Your email for educational inquiries]
-
 ---
 
 ⭐ **Star this repository if it helped you understand neural networks!**
